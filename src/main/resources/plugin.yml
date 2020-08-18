@@ -1,0 +1,11 @@
+name: Warrior
+version: "1.0"
+api-version: "1.13"
+author: CoronaStudio
+main: fun.craftmine.warrior.WarriorMain
+commands:
+  warrior:
+    description: Be a warrior
+    usage: |
+      /warrior on
+      /warrior off
